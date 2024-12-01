@@ -73,7 +73,7 @@ greeting card application powered by an AI system
 
 ```mermaid
 graph TB
-    Start -- User asks to generate a card --> Card -- AI generates a Card --> Affordances -- AI generates affordances :E.g. color, style: to allow for card editing --> Update -- User decides on a different color -->  NewCard;
+    Start -- User asks AI to generate a card. AI generates a Card with style and color --> Card -- AI generates affordances :E.g. color, style: to allow for card editing --> Affordances -- User decides on a different color -->  NewCard;
     
 ```
 
