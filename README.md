@@ -1,8 +1,8 @@
-# Artificial User Experience (AUX)
+# Intelligent User Experience (IUX)
 
-AUX is short for ___Artificial User Experience___, a User experience and user interface framework to power Artificial
-General Intelligence applications. Other acronyms include __AUIX__ (___Artificial User Interface and Experience___) or
-__AIUIX__ (___Artificial Intelligence User Interface and Experience___).
+IUX is short for ___Intelligent User Experience___, a user experience and user interface framework to power Artificial
+General Intelligence applications. Other acronyms include __AIUIX__ (
+___Artificial Intelligence User Interface and Experience___).
 
 # Documentation
 

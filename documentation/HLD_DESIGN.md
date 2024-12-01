@@ -1,4 +1,4 @@
-# AUX High Level Design (HLD)
+# IUX High Level Design (HLD)
 
 The purpose of this document is to discuss a design of a User Interface and experience (UI/UX) for powering Artificial
 General Intelligence (AGI) applications. This is a high level design doc, we would only be exploring solutions here,
