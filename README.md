@@ -6,7 +6,7 @@ ___Artificial Intelligence User Interface and Experience___).
 
 # Documentation
 
-- [AUX High Level Design (HLD)](./documentation/HLD_DESIGN.md)
+- [IUX High Level Design (HLD)](./documentation/HLD_DESIGN.md)
 
 # References
 
